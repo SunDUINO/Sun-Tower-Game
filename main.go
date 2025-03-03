@@ -77,7 +77,7 @@ func (g *Game) Update() error {
 // --- rysowanie gry
 func (g *Game) Draw(screen *ebiten.Image) {
 	if g.state == "title" {
-		ebitenutil.DebugPrint(screen, "Tower Breaker\nPress SPACE to Start")
+		ebitenutil.DebugPrint(screen, "Sun-Tower\nPress SPACE to Start")
 	} else if g.state == "playing" {
 		for _, block := range g.tower {
 			if block.active {
