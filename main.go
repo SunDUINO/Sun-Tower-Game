@@ -205,7 +205,7 @@ func (g *Game) Layout(outsideWidth, outsideHeight int) (int, int) {
 }
 
 func main() {
-	game := &Game{state: "Sun-Towe GAME "}
+	game := &Game{state: "title"}
 	if err := ebiten.RunGame(game); err != nil {
 		panic(err)
 	}
