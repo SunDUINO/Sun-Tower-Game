@@ -16,7 +16,7 @@ W tej chwili mamy 16 piłek i dośc losowe pojawianie się ich kolorów.
 
 Do zrobienia :
 -  kolor piłki powinien być widoczny przed strzałem
--  widoczny powionien być też nastepny kolor piłki
+-  widoczny powinien być też nastepny kolor piłki
 -  wieża powinna mieć nieco grubsze ściany 
 -  jeśli strącimy podpierające klocki , sciana powinna runać
 -  punkty naliczają sie tylko za zbite klocki
