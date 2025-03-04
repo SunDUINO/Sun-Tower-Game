@@ -2,7 +2,7 @@
 //
 // -- Sun-Tower Game (2025)
 // -- SunRiver https://forum.lothar-team.pl,
-// -- wersja 0.1.1
+// -- wersja 0.1.2
 // -- Obracanie wieży   kursory lewo /prawo
 // -- celowanie i strzał kulą myszka + LMB
 
